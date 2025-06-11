@@ -94,5 +94,6 @@ Any attempt to use this code on third-party platforms (e.g., gambling, trading, 
 **Furkan Canbolat**\
 Computer Engineering Student\
 Bandırma Onyedi Eylül University\
-[GitHub Profile](https://github.com/YOUR_USERNAME)
+[GitHub Profile](https://github.com/ElbruzMafe)
+[Linkedin Profile]https://www.linkedin.com/in/elbruz-mâfe-canbolat-77665b335/
 
