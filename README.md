@@ -95,5 +95,5 @@ Any attempt to use this code on third-party platforms (e.g., gambling, trading, 
 Computer Engineering Student\
 Bandırma Onyedi Eylül University\
 [GitHub Profile](https://github.com/ElbruzMafe)\
-[LinkedIn Profile](https://www.linkedin.com/in/elbruz-mâfe-canbolat-77665b335)/
+[LinkedIn Profile](https://www.linkedin.com/in/elbruz-mâfe-canbolat-77665b335)
 
